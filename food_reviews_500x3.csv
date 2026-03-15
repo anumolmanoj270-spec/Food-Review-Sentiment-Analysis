@@ -1,0 +1,501 @@
+food_item,review,sentiment
+Pizza,Too oily,Negative
+Pasta,Bad taste,Negative
+Burger,Loved it,Positive
+Fried Rice,Loved it,Positive
+Pasta,Not good,Negative
+Burger,Too salty,Negative
+Cake,Amazing flavor,Positive
+Burger,Too oily,Negative
+Noodles,Too oily,Negative
+Pizza,Not good,Negative
+Cake,Loved it,Positive
+Soup,Too salty,Negative
+Noodles,Amazing flavor,Positive
+Noodles,Bad taste,Negative
+Noodles,Not good,Negative
+Dosa,Fresh and delicious,Positive
+Burger,Not fresh,Negative
+Fried Rice,Amazing flavor,Positive
+Fried Rice,Very tasty,Positive
+Cake,Very tasty,Positive
+Sandwich,Bad taste,Negative
+Biryani,Fresh and delicious,Positive
+Fried Rice,Not fresh,Negative
+Dosa,Very tasty,Positive
+Burger,Very tasty,Positive
+Pizza,Very tasty,Positive
+Dosa,Bad taste,Negative
+Soup,Excellent taste,Positive
+Soup,Fresh and delicious,Positive
+Soup,Excellent taste,Positive
+Fried Rice,Excellent taste,Positive
+Biryani,Fresh and delicious,Positive
+Soup,Bad taste,Negative
+Burger,Amazing flavor,Positive
+Sandwich,Amazing flavor,Positive
+Cake,Very tasty,Positive
+Pasta,Loved it,Positive
+Pizza,Not good,Negative
+Noodles,Loved it,Positive
+Cake,Not fresh,Negative
+Sandwich,Not fresh,Negative
+Fried Rice,Not fresh,Negative
+Fried Rice,Amazing flavor,Positive
+Pizza,Not good,Negative
+Soup,Too oily,Negative
+Sandwich,Too salty,Negative
+Dosa,Excellent taste,Positive
+Sandwich,Too oily,Negative
+Burger,Excellent taste,Positive
+Fried Rice,Amazing flavor,Positive
+Soup,Excellent taste,Positive
+Cake,Very tasty,Positive
+Biryani,Excellent taste,Positive
+Burger,Not fresh,Negative
+Noodles,Very tasty,Positive
+Biryani,Amazing flavor,Positive
+Pasta,Too salty,Negative
+Biryani,Amazing flavor,Positive
+Cake,Excellent taste,Positive
+Burger,Too salty,Negative
+Fried Rice,Too salty,Negative
+Cake,Bad taste,Negative
+Dosa,Too oily,Negative
+Burger,Amazing flavor,Positive
+Biryani,Fresh and delicious,Positive
+Biryani,Fresh and delicious,Positive
+Pizza,Amazing flavor,Positive
+Pasta,Not fresh,Negative
+Pizza,Bad taste,Negative
+Burger,Too oily,Negative
+Pasta,Excellent taste,Positive
+Pasta,Too oily,Negative
+Burger,Too salty,Negative
+Pizza,Not good,Negative
+Burger,Not good,Negative
+Burger,Not good,Negative
+Soup,Amazing flavor,Positive
+Burger,Bad taste,Negative
+Fried Rice,Excellent taste,Positive
+Noodles,Very tasty,Positive
+Dosa,Not good,Negative
+Pasta,Too oily,Negative
+Soup,Bad taste,Negative
+Sandwich,Loved it,Positive
+Pasta,Loved it,Positive
+Noodles,Amazing flavor,Positive
+Burger,Loved it,Positive
+Soup,Fresh and delicious,Positive
+Biryani,Excellent taste,Positive
+Fried Rice,Too oily,Negative
+Burger,Not good,Negative
+Dosa,Bad taste,Negative
+Pasta,Bad taste,Negative
+Dosa,Very tasty,Positive
+Burger,Bad taste,Negative
+Pizza,Excellent taste,Positive
+Burger,Not good,Negative
+Fried Rice,Too oily,Negative
+Burger,Too oily,Negative
+Dosa,Not fresh,Negative
+Soup,Too oily,Negative
+Fried Rice,Amazing flavor,Positive
+Burger,Very tasty,Positive
+Cake,Amazing flavor,Positive
+Dosa,Very tasty,Positive
+Pizza,Fresh and delicious,Positive
+Soup,Loved it,Positive
+Pasta,Fresh and delicious,Positive
+Noodles,Too salty,Negative
+Pasta,Loved it,Positive
+Dosa,Fresh and delicious,Positive
+Burger,Too oily,Negative
+Cake,Too salty,Negative
+Biryani,Too oily,Negative
+Biryani,Loved it,Positive
+Cake,Too oily,Negative
+Noodles,Too salty,Negative
+Pizza,Excellent taste,Positive
+Soup,Loved it,Positive
+Cake,Excellent taste,Positive
+Dosa,Too oily,Negative
+Fried Rice,Too oily,Negative
+Biryani,Very tasty,Positive
+Noodles,Not good,Negative
+Burger,Fresh and delicious,Positive
+Burger,Not fresh,Negative
+Dosa,Amazing flavor,Positive
+Fried Rice,Not fresh,Negative
+Soup,Very tasty,Positive
+Cake,Excellent taste,Positive
+Soup,Very tasty,Positive
+Cake,Not fresh,Negative
+Dosa,Not fresh,Negative
+Burger,Loved it,Positive
+Sandwich,Excellent taste,Positive
+Fried Rice,Too oily,Negative
+Pizza,Too salty,Negative
+Burger,Not fresh,Negative
+Fried Rice,Not fresh,Negative
+Pizza,Bad taste,Negative
+Pizza,Bad taste,Negative
+Sandwich,Loved it,Positive
+Fried Rice,Too oily,Negative
+Noodles,Too oily,Negative
+Pizza,Too oily,Negative
+Burger,Amazing flavor,Positive
+Fried Rice,Fresh and delicious,Positive
+Pasta,Too salty,Negative
+Cake,Not fresh,Negative
+Pasta,Not good,Negative
+Noodles,Too oily,Negative
+Burger,Not good,Negative
+Sandwich,Not good,Negative
+Dosa,Too salty,Negative
+Cake,Too oily,Negative
+Soup,Too salty,Negative
+Biryani,Fresh and delicious,Positive
+Cake,Amazing flavor,Positive
+Burger,Excellent taste,Positive
+Cake,Not good,Negative
+Pizza,Excellent taste,Positive
+Fried Rice,Excellent taste,Positive
+Cake,Not good,Negative
+Fried Rice,Loved it,Positive
+Burger,Too oily,Negative
+Cake,Not good,Negative
+Soup,Too oily,Negative
+Noodles,Very tasty,Positive
+Sandwich,Not fresh,Negative
+Pizza,Very tasty,Positive
+Pizza,Not good,Negative
+Biryani,Bad taste,Negative
+Burger,Loved it,Positive
+Sandwich,Too oily,Negative
+Pasta,Not fresh,Negative
+Pasta,Bad taste,Negative
+Pizza,Not fresh,Negative
+Biryani,Too oily,Negative
+Noodles,Not good,Negative
+Cake,Fresh and delicious,Positive
+Sandwich,Not good,Negative
+Soup,Amazing flavor,Positive
+Cake,Not good,Negative
+Pasta,Not good,Negative
+Soup,Too oily,Negative
+Pizza,Too oily,Negative
+Soup,Very tasty,Positive
+Pasta,Fresh and delicious,Positive
+Fried Rice,Very tasty,Positive
+Sandwich,Loved it,Positive
+Pizza,Too salty,Negative
+Biryani,Bad taste,Negative
+Soup,Very tasty,Positive
+Dosa,Not good,Negative
+Fried Rice,Not fresh,Negative
+Biryani,Too oily,Negative
+Pizza,Not good,Negative
+Noodles,Loved it,Positive
+Noodles,Not fresh,Negative
+Sandwich,Very tasty,Positive
+Soup,Very tasty,Positive
+Soup,Excellent taste,Positive
+Pizza,Not fresh,Negative
+Sandwich,Bad taste,Negative
+Soup,Too salty,Negative
+Fried Rice,Bad taste,Negative
+Soup,Not fresh,Negative
+Sandwich,Not fresh,Negative
+Sandwich,Amazing flavor,Positive
+Pizza,Too oily,Negative
+Pizza,Loved it,Positive
+Fried Rice,Too salty,Negative
+Soup,Fresh and delicious,Positive
+Biryani,Amazing flavor,Positive
+Burger,Not fresh,Negative
+Noodles,Loved it,Positive
+Burger,Very tasty,Positive
+Pizza,Excellent taste,Positive
+Noodles,Too salty,Negative
+Pizza,Fresh and delicious,Positive
+Cake,Too oily,Negative
+Burger,Excellent taste,Positive
+Pizza,Amazing flavor,Positive
+Fried Rice,Not good,Negative
+Pizza,Excellent taste,Positive
+Soup,Not fresh,Negative
+Pasta,Too salty,Negative
+Fried Rice,Too salty,Negative
+Noodles,Loved it,Positive
+Biryani,Excellent taste,Positive
+Soup,Not good,Negative
+Dosa,Loved it,Positive
+Cake,Bad taste,Negative
+Fried Rice,Not fresh,Negative
+Cake,Amazing flavor,Positive
+Biryani,Loved it,Positive
+Fried Rice,Amazing flavor,Positive
+Sandwich,Very tasty,Positive
+Sandwich,Excellent taste,Positive
+Pizza,Too oily,Negative
+Sandwich,Not fresh,Negative
+Pasta,Loved it,Positive
+Sandwich,Too salty,Negative
+Noodles,Not good,Negative
+Burger,Fresh and delicious,Positive
+Sandwich,Excellent taste,Positive
+Noodles,Amazing flavor,Positive
+Pasta,Bad taste,Negative
+Burger,Bad taste,Negative
+Soup,Not good,Negative
+Dosa,Very tasty,Positive
+Sandwich,Too oily,Negative
+Fried Rice,Excellent taste,Positive
+Fried Rice,Amazing flavor,Positive
+Cake,Too oily,Negative
+Pasta,Not good,Negative
+Noodles,Not good,Negative
+Pizza,Not fresh,Negative
+Pizza,Too salty,Negative
+Burger,Very tasty,Positive
+Pasta,Loved it,Positive
+Dosa,Bad taste,Negative
+Fried Rice,Fresh and delicious,Positive
+Biryani,Too salty,Negative
+Dosa,Not good,Negative
+Sandwich,Too salty,Negative
+Sandwich,Amazing flavor,Positive
+Pasta,Very tasty,Positive
+Pasta,Very tasty,Positive
+Dosa,Too oily,Negative
+Pizza,Loved it,Positive
+Sandwich,Excellent taste,Positive
+Cake,Not good,Negative
+Fried Rice,Very tasty,Positive
+Sandwich,Amazing flavor,Positive
+Pizza,Fresh and delicious,Positive
+Pasta,Too oily,Negative
+Noodles,Excellent taste,Positive
+Dosa,Not good,Negative
+Fried Rice,Too oily,Negative
+Sandwich,Not good,Negative
+Burger,Loved it,Positive
+Burger,Too salty,Negative
+Soup,Too salty,Negative
+Biryani,Amazing flavor,Positive
+Pasta,Too salty,Negative
+Biryani,Too salty,Negative
+Dosa,Not fresh,Negative
+Noodles,Too salty,Negative
+Burger,Loved it,Positive
+Fried Rice,Bad taste,Negative
+Soup,Excellent taste,Positive
+Biryani,Not good,Negative
+Sandwich,Loved it,Positive
+Biryani,Too oily,Negative
+Pizza,Bad taste,Negative
+Fried Rice,Bad taste,Negative
+Biryani,Too salty,Negative
+Pizza,Amazing flavor,Positive
+Sandwich,Too oily,Negative
+Pasta,Too salty,Negative
+Fried Rice,Very tasty,Positive
+Burger,Not fresh,Negative
+Biryani,Not good,Negative
+Biryani,Too salty,Negative
+Fried Rice,Excellent taste,Positive
+Soup,Not good,Negative
+Fried Rice,Amazing flavor,Positive
+Fried Rice,Too salty,Negative
+Burger,Too salty,Negative
+Soup,Very tasty,Positive
+Soup,Amazing flavor,Positive
+Pasta,Bad taste,Negative
+Dosa,Bad taste,Negative
+Burger,Too salty,Negative
+Pasta,Not good,Negative
+Pasta,Excellent taste,Positive
+Sandwich,Fresh and delicious,Positive
+Soup,Bad taste,Negative
+Sandwich,Too salty,Negative
+Fried Rice,Bad taste,Negative
+Sandwich,Not fresh,Negative
+Pizza,Too oily,Negative
+Pasta,Not fresh,Negative
+Sandwich,Too salty,Negative
+Sandwich,Loved it,Positive
+Pasta,Fresh and delicious,Positive
+Burger,Amazing flavor,Positive
+Fried Rice,Very tasty,Positive
+Burger,Fresh and delicious,Positive
+Biryani,Too oily,Negative
+Dosa,Not fresh,Negative
+Dosa,Not fresh,Negative
+Sandwich,Not good,Negative
+Burger,Too salty,Negative
+Biryani,Too salty,Negative
+Burger,Too oily,Negative
+Cake,Excellent taste,Positive
+Fried Rice,Not good,Negative
+Dosa,Fresh and delicious,Positive
+Pizza,Not good,Negative
+Pizza,Amazing flavor,Positive
+Cake,Excellent taste,Positive
+Pizza,Not good,Negative
+Sandwich,Amazing flavor,Positive
+Burger,Loved it,Positive
+Biryani,Not fresh,Negative
+Fried Rice,Very tasty,Positive
+Cake,Bad taste,Negative
+Sandwich,Not fresh,Negative
+Sandwich,Very tasty,Positive
+Sandwich,Loved it,Positive
+Biryani,Too oily,Negative
+Cake,Too oily,Negative
+Noodles,Not fresh,Negative
+Sandwich,Too oily,Negative
+Cake,Fresh and delicious,Positive
+Pizza,Very tasty,Positive
+Burger,Too oily,Negative
+Cake,Not fresh,Negative
+Pasta,Fresh and delicious,Positive
+Cake,Loved it,Positive
+Cake,Fresh and delicious,Positive
+Cake,Not fresh,Negative
+Burger,Too oily,Negative
+Pasta,Too salty,Negative
+Pizza,Too oily,Negative
+Biryani,Too oily,Negative
+Pizza,Not good,Negative
+Sandwich,Too oily,Negative
+Pizza,Fresh and delicious,Positive
+Soup,Very tasty,Positive
+Pasta,Not good,Negative
+Biryani,Bad taste,Negative
+Dosa,Fresh and delicious,Positive
+Dosa,Very tasty,Positive
+Soup,Not good,Negative
+Cake,Loved it,Positive
+Biryani,Too salty,Negative
+Sandwich,Fresh and delicious,Positive
+Burger,Very tasty,Positive
+Cake,Fresh and delicious,Positive
+Pizza,Amazing flavor,Positive
+Pizza,Not good,Negative
+Pizza,Fresh and delicious,Positive
+Burger,Loved it,Positive
+Noodles,Bad taste,Negative
+Dosa,Bad taste,Negative
+Pizza,Very tasty,Positive
+Sandwich,Too salty,Negative
+Sandwich,Amazing flavor,Positive
+Soup,Loved it,Positive
+Sandwich,Not fresh,Negative
+Fried Rice,Amazing flavor,Positive
+Sandwich,Not good,Negative
+Fried Rice,Excellent taste,Positive
+Cake,Very tasty,Positive
+Pasta,Not good,Negative
+Cake,Too salty,Negative
+Burger,Not good,Negative
+Burger,Excellent taste,Positive
+Burger,Not good,Negative
+Biryani,Too oily,Negative
+Noodles,Not good,Negative
+Soup,Too oily,Negative
+Cake,Not fresh,Negative
+Cake,Bad taste,Negative
+Cake,Not fresh,Negative
+Cake,Bad taste,Negative
+Noodles,Very tasty,Positive
+Pasta,Excellent taste,Positive
+Pasta,Not fresh,Negative
+Sandwich,Very tasty,Positive
+Cake,Very tasty,Positive
+Pasta,Amazing flavor,Positive
+Pizza,Very tasty,Positive
+Cake,Amazing flavor,Positive
+Sandwich,Excellent taste,Positive
+Fried Rice,Too salty,Negative
+Soup,Too salty,Negative
+Soup,Amazing flavor,Positive
+Sandwich,Not good,Negative
+Pasta,Not fresh,Negative
+Soup,Not good,Negative
+Pizza,Fresh and delicious,Positive
+Pizza,Fresh and delicious,Positive
+Dosa,Loved it,Positive
+Soup,Too salty,Negative
+Soup,Fresh and delicious,Positive
+Pasta,Not good,Negative
+Biryani,Excellent taste,Positive
+Sandwich,Not good,Negative
+Pizza,Too oily,Negative
+Soup,Excellent taste,Positive
+Sandwich,Fresh and delicious,Positive
+Sandwich,Loved it,Positive
+Fried Rice,Too salty,Negative
+Cake,Loved it,Positive
+Burger,Amazing flavor,Positive
+Burger,Bad taste,Negative
+Pizza,Fresh and delicious,Positive
+Pasta,Bad taste,Negative
+Sandwich,Very tasty,Positive
+Cake,Excellent taste,Positive
+Sandwich,Not good,Negative
+Burger,Bad taste,Negative
+Dosa,Too salty,Negative
+Burger,Too oily,Negative
+Pizza,Amazing flavor,Positive
+Noodles,Not fresh,Negative
+Fried Rice,Amazing flavor,Positive
+Sandwich,Amazing flavor,Positive
+Fried Rice,Too salty,Negative
+Cake,Bad taste,Negative
+Soup,Amazing flavor,Positive
+Cake,Bad taste,Negative
+Biryani,Too oily,Negative
+Biryani,Very tasty,Positive
+Cake,Bad taste,Negative
+Noodles,Fresh and delicious,Positive
+Pizza,Not good,Negative
+Dosa,Not good,Negative
+Pizza,Very tasty,Positive
+Cake,Fresh and delicious,Positive
+Biryani,Loved it,Positive
+Noodles,Bad taste,Negative
+Noodles,Loved it,Positive
+Dosa,Not good,Negative
+Soup,Not good,Negative
+Pasta,Loved it,Positive
+Pizza,Not fresh,Negative
+Pasta,Too oily,Negative
+Fried Rice,Loved it,Positive
+Soup,Loved it,Positive
+Fried Rice,Loved it,Positive
+Noodles,Amazing flavor,Positive
+Pizza,Not fresh,Negative
+Soup,Not fresh,Negative
+Dosa,Not good,Negative
+Noodles,Too oily,Negative
+Cake,Too oily,Negative
+Fried Rice,Too salty,Negative
+Cake,Not fresh,Negative
+Burger,Too oily,Negative
+Fried Rice,Bad taste,Negative
+Fried Rice,Very tasty,Positive
+Pasta,Not fresh,Negative
+Dosa,Fresh and delicious,Positive
+Fried Rice,Too oily,Negative
+Burger,Very tasty,Positive
+Biryani,Not good,Negative
+Burger,Too oily,Negative
+Burger,Loved it,Positive
+Sandwich,Fresh and delicious,Positive
+Burger,Too oily,Negative
+Sandwich,Not good,Negative
+Burger,Not fresh,Negative
+Pizza,Very tasty,Positive
+Sandwich,Amazing flavor,Positive
+Sandwich,Loved it,Positive
